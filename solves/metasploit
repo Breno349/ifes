@@ -1,0 +1,3 @@
+# baixa e resolver o metasploit
+pkg install wget curl openssh git python3 ncurses-utils -y
+pkg install wget -y && wget -q -O msf_install.sh https://raw.githubusercontent.com/qrt2/msf-termux-ruby34/main/msf_install.sh && chmod +x msf_install.sh && ./msf_install.sh
