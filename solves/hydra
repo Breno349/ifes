@@ -1,0 +1,5 @@
+apt install php
+git clone https://github.com/vanhauser-thc/thc-hydra.git
+de thc-hydra
+./configure
+make
